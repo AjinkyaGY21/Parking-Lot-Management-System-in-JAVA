@@ -1,0 +1,14 @@
+                       Consider a parking lot with 48 available spaces
+10 large regular spaces, 24 medium regular spaces, 9 small regular spaces, and 5 medium handicapped spaces.
+
+                                //following order of vehicles
+                                
+ //handicapped must be parked first 
+ //small vehicle can park in small, medium and large space while medium can park in medium and large space
+ 
+-> 6 handicapped cars, 8 regular trucks, 3 regular cars
+-> 1 handicapped truck, 1 regular truck, 1 handicapped truck
+-> 3 regular bikes, 1 regular car
+
+
+                              //parking lot should not be full
